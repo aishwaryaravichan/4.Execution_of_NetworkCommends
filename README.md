@@ -46,8 +46,6 @@ This commands includes
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 083942" src="https://github.com/user-attachments/assets/1cdb1904-7847-4ff9-8274-cf7c04af60a4" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-25 083942" src="https://github.com/user-attachments/assets/1e68c58d-b32b-4e27-848e-171bd95697b1" />
-
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 084033" src="https://github.com/user-attachments/assets/cf97e66b-afbb-48fc-8a6a-6004ddd573c1" />
 
 
