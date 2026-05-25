@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-## netstat
+ netstat
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 083108" src="https://github.com/user-attachments/assets/db6db256-616d-4af6-a3ff-641b88112357" />
  ipconfig
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 083143" src="https://github.com/user-attachments/assets/90b13d8a-db13-45b3-8976-89f39f7aa1c8" />
